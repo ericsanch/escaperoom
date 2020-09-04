@@ -1,0 +1,17 @@
+Welcome to the Escape Room
+
+You are trapped in a room armed only with your wits and your luck to escape!
+Move through each room presented to you on the map. When you enter each room
+you will have to solve a mini-game or puzzle to get a letter. Once you've
+collected each letter, it will be up to you to unscramble the password to
+escape the locked door.
+
+You only have 30 minutes to escape! It takes 1 minute to move one space or
+play a mini-game, so make sure you are being efficient, and answer carefully
+ - the more times you lose a game or answer a puzzle wrong, the more of your
+time you will burn through.
+
+Move around using the direction keys you would use if you were navigating
+in vim (h = left, j = down, k = up, l = right) followed by ENTER. Your location
+is marked with an 'X'. A room marked with a '+' represents a room which you have
+not completed the designated task. Each game or puzzle will tell you how to respond.
